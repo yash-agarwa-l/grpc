@@ -1,0 +1,10 @@
+name: snippet_store
+description: A gRPC-based snippet storage service in Dart
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  grpc: ^4.0.1
+  protobuf: ^3.1.0
